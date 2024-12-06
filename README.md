@@ -1,2 +1,3 @@
 # home_be_adv
-Second technology Home BE is home news app provider backend app
+
+Home BE rest app implemented here with Golang.
